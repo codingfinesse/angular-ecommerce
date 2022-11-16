@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ecommerce-6371c"
+  },
+  "targets": {
+    "ecommerce-6371c": {
+      "hosting": {
+        "angularEcommerce": [
+          "ecommerce-6371c"
+        ]
+      }
+    }
+  }
+}
